@@ -3,8 +3,6 @@ C++ based TCP Group Chat application using Socket Programming
 
 ![](/screenshot.png)
 
-C++ TCP Group Chat using Socket Programming
-
 ## How to run
 1. cd groupchat-TCP/
 2. Compile:
