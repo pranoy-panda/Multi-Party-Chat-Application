@@ -1,5 +1,5 @@
 # Multi-Party-Chat-Application
-C++ based TCP Group Chat application using Socket Programming
+C++ based TCP Group Chat application using Socket Programming (Ongoing course project. Code will be available by first week of December 2021)
 
 ![](/screenshot.png)
 
