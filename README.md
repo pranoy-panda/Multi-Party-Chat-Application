@@ -1,5 +1,5 @@
 # Multi-Party-Chat-Application
-C++ based TCP Group Chat application using Socket Programming (Ongoing course project. Code will be available by first week of December 2021)
+C++ based TCP Group Chat application using Socket Programming (This project was part of a ongoing course at IITH, so the code will be available by first week of December 2021 after the semester ends)
 
 ![](/screenshot.png)
 
